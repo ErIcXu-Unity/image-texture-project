@@ -2,8 +2,6 @@
 
 This project, completed for an AI skills assessment, demonstrates a method for applying a source material texture onto multiple target surfaces within an indoor image. The process involves 2D perspective transformation and occlusion handling using OpenCV.
 
-**Project Repository:** `https://github.com/ErIcXu-Unity/image-texture-project`
-
 ---
 
 ## Project Artifacts
